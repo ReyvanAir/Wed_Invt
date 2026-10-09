@@ -26,4 +26,6 @@ The photo is stored locally in `assets/kimberly-joel.png`. Fonts load from Googl
 - `index.html` — complete page, styles, and interactions.
 - `assets/kimberly-joel.png` — supplied wedding photo.
 
-The repository contains the website source; GitHub Pages deployment is not configured.
+Live website: https://reyvanair.github.io/Wed_Invt/
+
+GitHub Pages publishes the root of the main branch. Push changes to main to update the website.
