@@ -12,7 +12,7 @@ For a local server, run `python -m http.server 8000` in this folder and open htt
 
 Edit the `INVITATION` settings near the bottom of `index.html`:
 
-- `date`: the template currently retains 12 December 2026 at 08:00 WIB (UTC+07:00).
+- `date`: Thursday, 15 October 2026 at 08:00 WIB (UTC+07:00).
 - `ceremonyTime` and `receptionTime`: event schedules.
 - `ceremony` and `reception`: real venue names, addresses, and HTTPS map links.
 - `whatsapp`: the recipient's international phone number, without a plus sign or spaces.
