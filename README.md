@@ -19,7 +19,7 @@ Edit the `INVITATION` settings near the bottom of `index.html`:
 
 Until a WhatsApp number is supplied, RSVP prepares a message that guests can copy. When configured, it opens a WhatsApp draft for the guest to send. Responses are not stored in a database.
 
-The photo is stored locally in `assets/kimberly-joel.png`. Fonts load from Google Fonts; the optional sample music loads from SoundHelix. Replace the sample music with your preferred track before sharing.
+The photo is stored locally in `assets/kimberly-joel.png`. Fonts load from Google Fonts. The music is extracted from the supplied video and stored in `assets/wedding-music.mp3`. Guests can play or pause it using the music button; playback loops.
 
 ## Files
 
